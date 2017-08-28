@@ -22,7 +22,7 @@ test case 2
     take screenshot
     close browser
 test case 3
-    [Tags]  Functional
+    [Tags]  Functional  bluetooth
     open browser  http://www.amazon.com  ${BROWSER}
     sleep  3s
     click image  Bluetooth
