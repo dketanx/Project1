@@ -14,7 +14,7 @@ test case 1
     take screenshot
     close browser
 test case 2
-    [Tags]  Functional  signin
+    [Tags]  Functional  checkin
     open browser  http://www.amazon.com  ${BROWSER}
     sleep  10s
     click image  Home
