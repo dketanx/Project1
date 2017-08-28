@@ -8,7 +8,7 @@ ${BROWSER}  ie
 *** Test Cases ***
 test case 1
     [Documentation]  amazon.com signin
-    [Tags]  Smoke  Functional  Signin
+    [Tags]  Smoke  Functional
     open browser  http://www.amazon.com  ${BROWSER}
     sleep  3s
     take screenshot
