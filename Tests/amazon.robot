@@ -29,3 +29,6 @@ test case 3
     Sleep  3s
     take screenshot
     close browser
+
+test case 4
+    log  feature2
