@@ -3,7 +3,6 @@ Documentation  This is test case for amazon.com checkin
 Library  Selenium2Library
 Library  Screenshot
 *** Variables ***
-{$BROWSER}
 ${BROWSER}  ie
 *** Test Cases ***
 test case 1
